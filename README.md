@@ -1,8 +1,7 @@
 # amigosdolennon
 Apresentação A3 - Usabilidade, Desenvolvimento Web, Mobile e Jogos
 
-# Título do Projeto
-
+# Let's Go F1
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
