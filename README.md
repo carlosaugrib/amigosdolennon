@@ -2,7 +2,7 @@
 Apresentação A3 - Usabilidade, Desenvolvimento Web, Mobile e Jogos
 
 # App: Let's Go F1
-![Capa do Projeto](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/302641ab-3a8c-4ee9-8d4f-6642cad71625)
+![Capa do Projeto](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/5104720d-0ddc-4ed1-bb60-b22eace7808a)
 
 # Sobre o Projeto
 
@@ -29,8 +29,8 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
+- [ ] Cadastrar Usuário
+- [ ] Fazer Login
 - [ ] Matricular em Curso
 - [ ] Cancelar Matricula
 - [ ] Visualizar Notas
