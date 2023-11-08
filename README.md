@@ -46,6 +46,9 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Personas
 
+* Persona 01:
+
+
 # Cenários
 
 # Protótipo lo-fi
