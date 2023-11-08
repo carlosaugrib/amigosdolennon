@@ -44,6 +44,10 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+# Personas
+
+# Cenários
+
 # Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
