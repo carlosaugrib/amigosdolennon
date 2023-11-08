@@ -4,6 +4,7 @@ Apresentação A3 - Usabilidade, Desenvolvimento Web, Mobile e Jogos
 # Let's Go F1
 
 ![Capa do Projeto](https://picsum.photos/850/280)
+![pexels-photo-11202308](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/302641ab-3a8c-4ee9-8d4f-6642cad71625)
 
 # Sobre o Projeto
 
