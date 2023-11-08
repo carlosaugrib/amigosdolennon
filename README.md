@@ -48,13 +48,17 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Cenários
 
-# Contribuição
+# Protótipo lo-fi
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+# Protótipo hi-fi
 
-# Autores
+# Aplicação web
+
+# Relatório
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+
+# Link Vídeo Apresentação
 
 # Licença
 
