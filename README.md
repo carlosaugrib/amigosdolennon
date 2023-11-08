@@ -47,7 +47,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 # Personas
 
 * Persona 01:
-
+![PersonasF1 (1)](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/ff6f4690-9a1b-4862-8177-b7f6aecefe11)
 
 # Cenários
 
