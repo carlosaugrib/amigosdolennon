@@ -21,6 +21,9 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Personas](#personas)
+* [Cenários](#cenarios)
+* [Protótipo lo-fi](#prototipo-lo-fi)
+* [Protótipo hi-fi](#prototipo-hi-fi)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -40,10 +43,6 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Personas
 
