@@ -20,6 +20,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Personas](#personas)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
