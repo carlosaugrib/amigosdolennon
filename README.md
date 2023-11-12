@@ -53,7 +53,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 ![Persona02F1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/067ed6d8-9645-491c-b564-91db2f17b7a5)
 
 * Persona 03:
-![Persona03F1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/20f4d760-9a1b-4a17-b37a-d1c7a4cca1ec)
+![Persona03F1 (1)](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/580d6892-5579-48ac-bcb9-eaf9dc68ece5)
 
 # Cenários
 
