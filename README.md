@@ -35,14 +35,12 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 - [ ] Cadastrar Usuário
 - [ ] Fazer Login
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
+- [Xtensio](https://xtensio.com/)
+- [Figma](https://www.figma.com/)
 
 # Personas
 
