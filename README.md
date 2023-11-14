@@ -87,33 +87,43 @@ Ponto Extra A3
 # Avaliação Heurística
 
 1. Visibilidade do Status do Sistema:
+
 Criamos visuais claros para mostrar o progresso das pesquisas e reservas. Isso pode ser apresentado ao usuário através de notificações push ou banners informativos, para mantê-los atualizados sobre mudanças no status de suas reservas.
 
 2. Correspondência entre o Sistema e o Mundo Real:
+
 Utilizamos termos familiares para descrever categorias de pesquisa, como "Corridas", "Acomodações" e "Atrações". As datas e horários são apresentados de forma intuitiva.
 
 3. Controle e Liberdade do Usuário:
+
 Incluímos botões claros de "Voltar" e "Cancelar" durante processos de reserva para proporcionar uma "saída de emergência" fácil. Isso permite que os usuários revisem e modifiquem suas escolhas antes de finalizar uma reserva.
 
 4. Consistência e Padrões:
+
 Mantivemos a mesma linguagem e estilo visual em todo o aplicativo para evitar confusão.
 
 5. Prevenção de Erros:
+
 Prevemos a simulação de entradas de dados para evitar problemas, como datas inválidas ou campos em branco.
 
 6. Reconhecimento ao Invés de Lembrança:
+
 Apresentamos uma visualização clara do itinerário e das reservas recentes na página de confirmação. retendemos utilizar histórico para simplificar pesquisas futuras baseadas em padrões anteriores do usuário.
 
 7. Flexibilidade e Eficiência de Uso:
+
 Permitimos que usuários salvem suas preferências de viagem, como aeroportos favoritos e tipos de acomodação.
 
 8. Estética e Design Minimalista:
+
 Evitamos excesso de informações em uma única tela; priorizando o que é mais relevante para o usuário.
 
 9. Ajude os Usuários a Reconhecer, Diagnosticar e Recuperar Erros:
+
 Criamos mensagens de erro amigáveis que indiquem o problema e sugiram soluções. Além disso, criamos links ou botões de "Ajuda" diretamente nas mensagens de erro para orientar os usuários para mais informações.
 
 10. Ajuda e Documentação:
+
 Criamos tutoriais interativos ou guias passo a passo para novos usuários. Em complemento, mantemos uma sessão com a documentação acessível a partir do menu principal, organizada por tarefas específicas, para facilitar a busca.
 
 
