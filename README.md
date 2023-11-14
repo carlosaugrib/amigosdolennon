@@ -84,7 +84,7 @@ José sonha em assistir a uma corrida de Fórmula 1 ao vivo, mas o orçamento se
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 # Agradecimentos
 
