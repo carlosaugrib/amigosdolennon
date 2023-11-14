@@ -84,7 +84,7 @@ Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERI
 
 Ponto Extra A3
 
-# Avaliação Heurística (de Nielsen)
+# Avaliação Heurística
 
 1. Visibilidade do Status do Sistema:
 Criamos visuais claros para mostrar o progresso das pesquisas e reservas. Isso pode ser apresentado ao usuário através de notificações push ou banners informativos, para mantê-los atualizados sobre mudanças no status de suas reservas.
