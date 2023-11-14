@@ -59,7 +59,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 # Cenários
 
 * Cenário 01:
-Enzo Milano, apaixonado por Fórmula 1, quer melhorar sua experiência nas corridas. Como fã assíduo, ele busca passagens aéreas e reserva hospedagem para o Grande Prêmio de Mônaco, com o objetivo de não só assistir a corrida, mas também organizar um roteiro pelos principais pontos turísticos da cidade. Grande entusiasta tammbém de viagens, ele decide aproveitar para compartilhar cada local com a sua família. Por isso, ele precisa de algo que auxilie nesse complexo planejamento, tornando sua experiência mais simples, fácil e prazerosa.
+Enzo Milano, apaixonado por Fórmula 1, quer melhorar sua experiência nas corridas. Como fã assíduo, ele busca passagens aéreas e reserva hospedagem para o Grande Prêmio de Mônaco, com o objetivo de não só assistir a corrida, mas também organizar um roteiro pelos principais pontos turísticos da cidade. Enzo também é um grande entusiasta de viagens, entao decide aproveitar para compartilhar cada local do roteiro com a sua família. Por isso, ele precisa de uma ferramenta que auxilie nesse complexo planejamento, tornando sua experiência mais simples, fácil e prazerosa.
 
 
 * Cenário 02:
