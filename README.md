@@ -55,7 +55,11 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Cenários
 
+* Cenário 02:
+Clara Tomazzi, coordenadora de eventos na Fórmula 1, está decidida a aprimorar a experiência dos fãs em uma corrida de grande porte em São Paulo. Com o objetivo de integrar inovações e culturas locais, ela decide pessoalmente visitar os destinos das próximas corridas, como Mônaco e Monza. Para concretizar essa ideia, passa a buscar passagens aéreas e reservar sua estadia, visando compreender as particularidades de cada local e identificar oportunidades de inovação para a produção do evento. Ela planeja explorar os pontos turísticos icônicos, como o Cassino de Monte Carlo e a Catedral de Monza, conhecendo as culturas para melhorar a experiência das próximas corridas. Com isso, Clara deseja elevar a Fórmula 1 a um novo patamar, representando as pessoas que prestam serviço nesse tipo de evento, solidificando sua experiência profissional e também pessoal.
+
 * Cenário 03:
+  
 José sonha em assistir a uma corrida de Fórmula 1 ao vivo, mas o orçamento sempre foi um obstáculo. Ao organizar as férias, nota que coincidiriam com o Grande Prêmio de Interlagos, em São Paulo. Então, ele decide procurar passagens aéreas e planejar um roteiro turístico dentro das suas condições. Para economizar na estadia, ele prentende reservar um hostel próximo ao autódromo. Então, José busca uma plataforma que o auxilie não só a assistir à corrida, mas também explorar a locais famosos na cidade como, por exemplo, o Parque do Ibirapuera e a Avenida Paulista. José descobre um aplicativo onde consegue fazer todas essas atividades e, então, concretiza seu sonho de estar presente em uma corrida de Fórmula 1. Sua experiência serve como um guia prático para outros fãs esporádicos de F1 que buscam oportunidades acessíveis para vivenciar a emoção das pistas.
 
 # Protótipo lo-fi
