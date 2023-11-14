@@ -40,7 +40,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 # Tecnologias Usadas
 
 - [Xtensio](https://xtensio.com/): Personas
-- [Figma](https://www.figma.com/): Protótipos hi-fi
+- [Figma](https://www.figma.com/): Protótipos hi-fi e lo-fi
 
 # Personas
 
