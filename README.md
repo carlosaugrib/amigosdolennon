@@ -58,7 +58,12 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Cenários
 
+* Cenário 01:
+
+
+
 * Cenário 02:
+  
 Clara Tomazzi, coordenadora de eventos na Fórmula 1, está decidida a aprimorar a experiência dos fãs em uma corrida de grande porte em São Paulo. Com o objetivo de integrar inovações e culturas locais, ela decide pessoalmente visitar os destinos das próximas corridas, como Mônaco e Monza. Para concretizar essa ideia, passa a buscar passagens aéreas e reservar sua estadia, visando compreender as particularidades de cada local e identificar oportunidades de inovação para a produção do evento. Ela planeja explorar os pontos turísticos icônicos, como o Cassino de Monte Carlo e a Catedral de Monza, conhecendo as culturas para melhorar a experiência das próximas corridas. Com isso, Clara deseja elevar a Fórmula 1 a um novo patamar, representando as pessoas que prestam serviço nesse tipo de evento, solidificando sua experiência profissional e também pessoal.
 
 * Cenário 03:
