@@ -39,20 +39,22 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Tecnologias Usadas
 
-- [Xtensio](https://xtensio.com/)
-- [Figma](https://www.figma.com/)
+- [Xtensio](https://xtensio.com/): Personas
+- [Figma](https://www.figma.com/): Protótipos hi-fi
 
 # Personas
 
 * Persona 01:
-![Persona01F1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/a94e9e2e-72fa-4c0b-bf64-985c805f90ba)
+![image](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/a6ff8333-47f9-4283-a6dd-2ad8e7f086d9)
+
 
 * Persona 02:
-![image](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/ce6f1302-a7cb-44bd-ac38-331b94758508)
+![image](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/e52cd2ac-0d90-4338-82be-df0afc836cbb)
 
 
 * Persona 03:
-![Persona03F1 (1)](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/9f075e87-fe90-4c57-bf85-f0eea44511a1)
+![image](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/67df314d-1a02-487b-819d-98519bba8319)
+
 
 # Cenários
 
