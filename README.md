@@ -73,7 +73,7 @@ José sonha em assistir a uma corrida de Fórmula 1 ao vivo, mas o orçamento se
 
 # Protótipo lo-fi
 
-Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERIENCE?type=design&node-id=0%3A1&mode=design&t=ensKI8hce0xnn6NH-1) o protótipo lo-fi no site Figma.
+Acesse [aqui](https://www.figma.com/file/o5D1MGBptgXuamqaGGi5We/F1-lo-fi?type=design&node-id=0%3A1&mode=design&t=BCsXMGJXBegJeAhc-1) o protótipo lo-fi no site Figma.
 
 
 # Protótipo hi-fi
