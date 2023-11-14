@@ -25,7 +25,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 * [Protótipo lo-fi](#protótipo-lo-fi)
 * [Protótipo hi-fi](#protótipo-hi-fi)
 * [Aplicação Web](#aplicação-web)
-* [Avaliação Heurística](#avaliação-heurística)
+* [Avaliação](#avaliação)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -84,7 +84,9 @@ Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERI
 
 Ponto Extra A3
 
-# Avaliação Heurística
+# Avaliação
+
+* Avaliação Heurística de Nielsen
 
 1. Visibilidade do Status do Sistema: Criamos visuais claros para mostrar o progresso das pesquisas e reservas. Isso pode ser apresentado ao usuário através de notificações push ou banners informativos, para mantê-los atualizados sobre mudanças no status de suas reservas.
 
