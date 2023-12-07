@@ -42,14 +42,16 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/240b21ad-8f53-4267-8bb7-7a22aff56f76" width="200"/>
 
 
+
 - [ ]  RF2 - Reserva de Voos e Acomodações:
-O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
+- O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/271c10f6-3a2d-48a0-9ea8-50c0336be012" width="200"/>
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/71fb2dbf-4247-4bb0-999f-b1e3fe3b1246" width="200"/>
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/a233522e-231f-4b49-be48-fe0a6042da92" width="200"/>
+
 
 
 - [ ]  RF3 - Planejamento de Itinerários:
@@ -65,17 +67,19 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/0800575e-2caa-4894-9ed9-d98a4c8073e1" width="200"/>
 
 
+
 - [ ]  RF4 - Controle de Carteira:
 - O sistema fornece ferramentas para organizar a carteira do usuário. Os usuários podem selecionar ou adquirir seus ingressos, cadastrar carões de créditos e outras formas de pagamento online.
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/31a3b889-61d2-4ad5-8a34-fe629bc23b56" width="200"/>
 
-- [ ]  [RF5 - Verificação de Requisitos de Visto:](#rf5-verificação-de-requisitos-de-visto) 
+- [ ]  RF5 - Verificação de Requisitos de Visto:
 - O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/b5906507-6aa8-4b99-94da-1f8c8582e9f9" width="200"/>
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/7ef0cd83-01c1-41d6-bf62-6c5d7ac6cd86" width="200"/>
+
 
 
 - [ ]  RF6 - Organização de Visitas Guiadas:
@@ -96,6 +100,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/3d5f054f-ac16-47a2-9b75-4c948cc94686" width="200"/>
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/40e0352c-b38e-4c20-8cc9-56fc9ab4da38" width="200"/>
+
 
 
 - [ ]  RF8 - Tela de Cadastro de Usuário:
