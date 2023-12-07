@@ -35,28 +35,28 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 # Requisitos Funcionais 
 
 - [ ]  RF1 - Recursos de Pesquisa de Destinos:
-O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, grandes prêmios, atrações específicas, entre outros.
+- O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, grandes prêmios, atrações específicas, entre outros.
 
 - [ ]  RF2 - Reserva de Voos e Acomodações:
 O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
 
 - [ ]  RF3 - Planejamento de Itinerários:
-O sistema fornece ferramentas para criar itinerários personalizados. Os usuários podem selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem.
+- O sistema fornece ferramentas para criar itinerários personalizados. Os usuários podem selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem.
 
 - [ ]  RF4 - Controle de Carteira:
-O sistema fornece ferramentas para organizar a carteira do usuário. Os usuários podem selecionar ou adquirir seus ingressos, cadastrar carões de créditos e outras formas de pagamento online.
+- O sistema fornece ferramentas para organizar a carteira do usuário. Os usuários podem selecionar ou adquirir seus ingressos, cadastrar carões de créditos e outras formas de pagamento online.
 
 - [ ]  RF5 - Verificação de Requisitos de Visto:
-O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
+- O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
 
 - [ ]  RF6 - Organização de Visitas Guiadas:
-O sistema permite que os usuários organizem visitas guiadas em seus destinos escolhidos. Isso inclui a possibilidade de reservar guias turísticos locais, definir datas e horários, bem como selecionar os locais e atrações a serem visitados durante a excursão.
+- O sistema permite que os usuários organizem visitas guiadas em seus destinos escolhidos. Isso inclui a possibilidade de reservar guias turísticos locais, definir datas e horários, bem como selecionar os locais e atrações a serem visitados durante a excursão.
 
 - [ ]  RF7 - Informações sobre Atrações Locais:
-O sistema disponibiliza informações detalhadas sobre atrações locais em destinos específicos. Os usuários têm acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
+- O sistema disponibiliza informações detalhadas sobre atrações locais em destinos específicos. Os usuários têm acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
 
 - [ ]  RF8 - Tela de Cadastro de Usuário:
-O sistema fornece uma tela de cadastro que permite aos usuários registrar suas informações essenciais. Os campos obrigatórios incluem nome completo, data de nascimento, e-mail, senha e nacionalidade.
+- O sistema fornece uma tela de cadastro que permite aos usuários registrar suas informações essenciais. Os campos obrigatórios incluem nome completo, data de nascimento, e-mail, senha e nacionalidade.
 
 
 # Tecnologias Usadas
