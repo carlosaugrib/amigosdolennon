@@ -59,18 +59,37 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 # Cenários
 
-* Cenário 01:
-  
-Enzo Milano, apaixonado por Fórmula 1, quer melhorar sua experiência nas corridas. Como fã assíduo, ele busca passagens aéreas e reserva hospedagem para o Grande Prêmio de Mônaco, com o objetivo de não só assistir a corrida, mas também organizar um roteiro pelos principais pontos turísticos da cidade. Enzo também é um grande entusiasta de viagens, entao decide aproveitar para compartilhar cada local do roteiro com a sua família. Por isso, ele precisa de uma ferramenta que auxilie nesse complexo planejamento, tornando sua experiência mais simples, fácil e prazerosa.
+* RF1 - Recursos de Pesquisa de Destinos: 
 
+- Cenário: Enzo Milano, o aficionado por Fórmula 1, acessa o aplicativo e utiliza a funcionalidade de pesquisa de destinos. Ele filtra os destinos para encontrar cidades que sediam Grandes Prêmios, como Mônaco. Enzo explora as opções disponíveis, visualizando as atrações turísticas de cada local, incluindo o Cassino de Monte Carlo. Ele ajusta o filtro por datas para coincidir com o Grande Prêmio, organizando um roteiro personalizado que compartilha com sua família, tornando a experiência mais completa e compartilhada.
 
-* Cenário 02:
-  
-Clara Tomazzi, coordenadora de eventos na Fórmula 1, está decidida a aprimorar a experiência dos fãs em uma corrida de grande porte em São Paulo. Com o objetivo de integrar inovações e culturas locais, ela decide pessoalmente visitar os destinos das próximas corridas, como Mônaco e Monza. Para concretizar essa ideia, passa a buscar passagens aéreas e reservar sua estadia, visando compreender as particularidades de cada local e identificar oportunidades de inovação para a produção do evento. Ela planeja explorar os pontos turísticos icônicos, como o Cassino de Monte Carlo e a Catedral de Monza, conhecendo as culturas para melhorar a experiência das próximas corridas. Com isso, Clara deseja elevar a Fórmula 1 a um novo patamar, representando as pessoas que prestam serviço nesse tipo de evento, solidificando sua experiência profissional e também pessoal.
+* RF2 - Reserva de Voos e Acomodações: 
 
-* Cenário 03:
-  
-José sonha em assistir a uma corrida de Fórmula 1 ao vivo, mas o orçamento sempre foi um obstáculo. Ao organizar as férias, nota que coincidiriam com o Grande Prêmio de Interlagos, em São Paulo. Então, ele decide procurar passagens aéreas e planejar um roteiro turístico dentro das suas condições. Para economizar na estadia, ele prentende reservar um hostel próximo ao autódromo. Então, José busca uma plataforma que o auxilie não só a assistir à corrida, mas também explorar a locais famosos na cidade como, por exemplo, o Parque do Ibirapuera e a Avenida Paulista. José descobre um aplicativo onde consegue fazer todas essas atividades e, então, concretiza seu sonho de estar presente em uma corrida de Fórmula 1. Sua experiência serve como um guia prático para outros fãs esporádicos de F1 que buscam oportunidades acessíveis para vivenciar a emoção das pistas.
+- Cenário: Clara Tomazzi, a coordenadora de eventos, decide visitar destinos de corridas futuras. Ela utiliza a plataforma para reservar voos e acomodações para Mônaco e Monza. Clara visualiza opções de voos, seleciona datas e horários convenientes, e efetua reservas seguras. Ao explorar os pontos turísticos, como a Catedral de Monza, ela enriquece sua experiência profissional, identificando oportunidades de inovação para os próximos eventos.
+
+* RF3 - Planejamento de Itinerários: 
+
+- Cenário: José, o entusiasta com orçamento limitado, utiliza o sistema para planejar suas férias coincidindo com o Grande Prêmio de Interlagos. Ele cria um itinerário personalizado, escolhendo atividades acessíveis, como explorar o Parque do Ibirapuera e a Avenida Paulista. José organiza seu cronograma de viagem de forma econômica, aproveitando ao máximo a cidade, graças às ferramentas de planejamento do aplicativo.
+
+* RF4 - Controle de Carteira: 
+
+- Cenário: Enzo Milano, após organizar seu roteiro, utiliza o sistema para controlar sua carteira. Ele cadastra seus cartões de crédito, adquire ingressos para o Grande Prêmio e gerencia seus gastos durante a viagem. O aplicativo oferece uma maneira conveniente de organizar suas despesas, proporcionando a Enzo uma experiência financeira segura e eficiente.
+
+* RF5 - Verificação de Requisitos de Visto: 
+
+- Cenário: Clara Tomazzi, coordenadora de eventos, planeja sua visita a destinos internacionais para melhorar a experiência dos fãs. Utilizando o sistema, ela verifica os requisitos de visto com base em sua nacionalidade e destino. O aplicativo fornece informações detalhadas, permitindo que Clara se prepare adequadamente para suas viagens, garantindo uma transição suave entre os destinos.
+
+* RF6 - Organização de Visitas Guiadas:
+
+- Cenário: Enzo Milano, ao explorar Mônaco, decide organizar uma visita guiada. Utilizando o aplicativo, ele reserva um guia local para mostrar os pontos turísticos, como o Cassino de Monte Carlo. O sistema permite que Enzo defina datas, horários e locais a serem visitados durante a excursão, proporcionando uma experiência turística personalizada.
+
+* RF7 - Informações sobre Atrações Locais:
+
+- Cenário: José, ao planejar sua viagem para o Grande Prêmio de Interlagos, utiliza o sistema para obter informações detalhadas sobre atrações locais. Ele acessa descrições, horários de funcionamento, preços e avaliações do Parque do Ibirapuera e da Avenida Paulista. O aplicativo enriquece a experiência de José, fornecendo insights valiosos sobre as principais atrações em seu destino.
+
+* RF8 - Tela de Cadastro de Usuário:
+
+- Cenário: Maria, uma nova usuária entusiasmada, decide se cadastrar no aplicativo. Ela fornece seu nome completo, data de nascimento, email, senha e nacionalidade durante o processo de cadastro. Com as informações registradas, Maria agora tem acesso a recursos exclusivos, como roteiros personalizados, e pode aproveitar ao máximo sua experiência na Fórmula 1 com a ajuda do aplicativo.
 
 # Protótipo lo-fi
 
