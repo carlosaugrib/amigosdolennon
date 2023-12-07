@@ -70,7 +70,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/31a3b889-61d2-4ad5-8a34-fe629bc23b56" width="200"/>
 
-* [RF5 - Verificação de Requisitos de Visto](#RF5-Verificação-de-Requisitos-de-Visto) 
+- [ ] [RF5 - Verificação de Requisitos de Visto](#RF5-Verificação-de-Requisitos-de-Visto) 
 - O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/b5906507-6aa8-4b99-94da-1f8c8582e9f9" width="200"/>
@@ -139,7 +139,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 - [ ] RF4 - Controle de Carteira: 
 - Cenário: Enzo Milano, após organizar seu roteiro, utiliza o sistema para controlar sua carteira. Ele cadastra seus cartões de crédito, adquire ingressos para o Grande Prêmio e gerencia seus gastos durante a viagem. O aplicativo oferece uma maneira conveniente de organizar suas despesas, proporcionando a Enzo uma experiência financeira segura e eficiente.
 
-- [ ] [RF5 - Verificação de Requisitos de Visto:](#rf5-verificação-de-requisitos-de-visto) 
+- [ ] RF5 - Verificação de Requisitos de Visto:
 - Cenário: Clara Tomazzi, coordenadora de eventos, planeja sua visita a destinos internacionais para melhorar a experiência dos fãs. Utilizando o sistema, ela verifica os requisitos de visto com base em sua nacionalidade e destino. O aplicativo fornece informações detalhadas, permitindo que Clara se prepare adequadamente para suas viagens, garantindo uma transição suave entre os destinos.
 
 
