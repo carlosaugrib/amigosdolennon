@@ -46,65 +46,65 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 - [ ]  RF2 - Reserva de Voos e Acomodações:
 O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
 
-![Tela plano de Viagem 2](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/271c10f6-3a2d-48a0-9ea8-50c0336be012)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/271c10f6-3a2d-48a0-9ea8-50c0336be012" width="200"/>
 
-![Tela Plano de Viagem](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/71fb2dbf-4247-4bb0-999f-b1e3fe3b1246)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/71fb2dbf-4247-4bb0-999f-b1e3fe3b1246" width="200"/>
 
-![Tela Calendário-1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/a233522e-231f-4b49-be48-fe0a6042da92)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/a233522e-231f-4b49-be48-fe0a6042da92" width="200"/>
 
 - [ ]  RF3 - Planejamento de Itinerários:
 - O sistema fornece ferramentas para criar itinerários personalizados. Os usuários podem selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem.
 
-![Weather query page](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/97f2cf84-dcd4-481f-9707-9a08bcd5fd9c)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/97f2cf84-dcd4-481f-9707-9a08bcd5fd9c)" width="200"/>
 
 
-![Tela Calendário](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/6424799f-49e7-47e3-9e54-900f8885218b)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/6424799f-49e7-47e3-9e54-900f8885218b" width="200"/>
 
-![Tela guia EXP](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/3920e2d0-d9a3-43a1-8c33-c81f5220c1b6)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/3920e2d0-d9a3-43a1-8c33-c81f5220c1b6" width="200"/>
 
-![Travel Arrangement Page](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/0800575e-2caa-4894-9ed9-d98a4c8073e1)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/0800575e-2caa-4894-9ed9-d98a4c8073e1" width="200"/>
 
 
 - [ ]  RF4 - Controle de Carteira:
 - O sistema fornece ferramentas para organizar a carteira do usuário. Os usuários podem selecionar ou adquirir seus ingressos, cadastrar carões de créditos e outras formas de pagamento online.
 
-![Tela carteira](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/31a3b889-61d2-4ad5-8a34-fe629bc23b56)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/31a3b889-61d2-4ad5-8a34-fe629bc23b56" width="200"/>
 
 
 - [ ]  RF5 - Verificação de Requisitos de Visto:
 - O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
 
-  ![Tela Plano de Viagem](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/b5906507-6aa8-4b99-94da-1f8c8582e9f9)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/b5906507-6aa8-4b99-94da-1f8c8582e9f9" width="200"/>
 
-![Tela plano de Viagem 2](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/7ef0cd83-01c1-41d6-bf62-6c5d7ac6cd86)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/7ef0cd83-01c1-41d6-bf62-6c5d7ac6cd86" width="200"/>
 
 
 - [ ]  RF6 - Organização de Visitas Guiadas:
 - O sistema permite que os usuários organizem visitas guiadas em seus destinos escolhidos. Isso inclui a possibilidade de reservar guias turísticos locais, definir datas e horários, bem como selecionar os locais e atrações a serem visitados durante a excursão.
 
-![Travel Arrangement Page](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/83eb9191-4c94-480b-bcc3-c0c009b6f33a)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/83eb9191-4c94-480b-bcc3-c0c009b6f33a" width="200"/>
 
-![Tela visita guiada palacio](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/2e53b3c9-07b5-4c08-85fd-49cc90ad4899)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/2e53b3c9-07b5-4c08-85fd-49cc90ad4899" width="200"/>
 
-![Tela visita guiada palacio-1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/1dd9a0a5-6d6d-49eb-bb20-92b3c09c80c5)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/1dd9a0a5-6d6d-49eb-bb20-92b3c09c80c5" width="200"/>
 
 
 - [ ]  RF7 - Informações sobre Atrações Locais:
 - O sistema disponibiliza informações detalhadas sobre atrações locais em destinos específicos. Os usuários têm acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
 
-![Tela intro Palacio](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/92de1ed2-594b-4d2a-bbff-ff8db7731032)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/92de1ed2-594b-4d2a-bbff-ff8db7731032" width="200"/>
 
-![Tela info Palácio](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/3d5f054f-ac16-47a2-9b75-4c948cc94686)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/3d5f054f-ac16-47a2-9b75-4c948cc94686" width="200"/>
 
-![Tela visita guiada palacio-1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/40e0352c-b38e-4c20-8cc9-56fc9ab4da38)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/40e0352c-b38e-4c20-8cc9-56fc9ab4da38" width="200"/>
 
 
 - [ ]  RF8 - Tela de Cadastro de Usuário:
 - O sistema fornece uma tela de cadastro que permite aos usuários registrar suas informações essenciais. Os campos obrigatórios incluem nome completo, data de nascimento, e-mail, senha e nacionalidade.
 
-![Tela Cadastre-se](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/da0a8b78-6303-410c-8d83-65d18a8abb6e)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/da0a8b78-6303-410c-8d83-65d18a8abb6e" width="200"/>
 
-![Tela cadastre-se 3](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/aa8acb78-30af-4e65-a5f0-ee810bd1df09)
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/aa8acb78-30af-4e65-a5f0-ee810bd1df09" width="200"/>
 
 
 # Tecnologias Usadas
