@@ -142,6 +142,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 
 - [ ]  RF5 - Verificação de Requisitos de Visto: 
 - Cenário: Clara Tomazzi, coordenadora de eventos, planeja sua visita a destinos internacionais para melhorar a experiência dos fãs. Utilizando o sistema, ela verifica os requisitos de visto com base em sua nacionalidade e destino. O aplicativo fornece informações detalhadas, permitindo que Clara se prepare adequadamente para suas viagens, garantindo uma transição suave entre os destinos.
+- * [RF5 - Verificação de Requisitos de Visto:](#rf5-verificação-de-requisitos-de-visto)
 
 - [ ] RF6 - Organização de Visitas Guiadas:
 - Cenário: Enzo Milano, ao explorar Mônaco, decide organizar uma visita guiada. Utilizando o aplicativo, ele reserva um guia local para mostrar os pontos turísticos, como o Cassino de Monte Carlo. O sistema permite que Enzo defina datas, horários e locais a serem visitados durante a excursão, proporcionando uma experiência turística personalizada.
@@ -150,7 +151,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 - Cenário: José, ao planejar sua viagem para o Grande Prêmio de Interlagos, utiliza o sistema para obter informações detalhadas sobre atrações locais. Ele acessa descrições, horários de funcionamento, preços e avaliações do Parque do Ibirapuera e da Avenida Paulista. O aplicativo enriquece a experiência de José, fornecendo insights valiosos sobre as principais atrações em seu destino.
 
 - [ ] RF8 - Tela de Cadastro de Usuário:
-- Cenário: Maria, uma nova usuária entusiasmada, decide se cadastrar no aplicativo. Ela fornece seu nome completo, data de nascimento, email, senha e nacionalidade durante o processo de cadastro. Com as informações registradas, Maria agora tem acesso a recursos exclusivos, como roteiros personalizados, e pode aproveitar ao máximo sua experiência na Fórmula 1 com a ajuda do aplicativo.
+- Cenário: Clara, uma nova usuária entusiasmada, decide se cadastrar no aplicativo. Ela fornece seu nome completo, data de nascimento, e-mail, senha e nacionalidade durante o processo de cadastro. Com as informações registradas, Clara agora tem acesso a recursos exclusivos, como roteiros personalizados, e pode aproveitar ao máximo sua experiência na Fórmula 1 com a ajuda do aplicativo.
 
 # Protótipo lo-fi
 
