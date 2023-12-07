@@ -37,6 +37,8 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 - [ ]  RF1 - Recursos de Pesquisa de Destinos:
 - O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, grandes prêmios, atrações específicas, entre outros.
 
+
+
 - [ ]  RF2 - Reserva de Voos e Acomodações:
 O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
 
