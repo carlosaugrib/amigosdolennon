@@ -37,8 +37,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 - [ ]  RF1 - Recursos de Pesquisa de Destinos:
 - O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, grandes prêmios, atrações específicas, entre outros.
 
-![Tela inicial ON EXP-1]
-<img src=(https://github.com/carlosaugrib/amigosdolennon/assets/132007234/d07064a7-7eba-4196-a5d3-fe0b1e8c3ca5)width="200"/>
+<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/d07064a7-7eba-4196-a5d3-fe0b1e8c3ca5" width="200"/>
 
 
 
