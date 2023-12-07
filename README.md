@@ -42,7 +42,6 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/240b21ad-8f53-4267-8bb7-7a22aff56f76" width="200"/>
 
 
-
 - [ ]  RF2 - Reserva de Voos e Acomodações:
 O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
 
@@ -51,6 +50,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/71fb2dbf-4247-4bb0-999f-b1e3fe3b1246" width="200"/>
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/a233522e-231f-4b49-be48-fe0a6042da92" width="200"/>
+
 
 - [ ]  RF3 - Planejamento de Itinerários:
 - O sistema fornece ferramentas para criar itinerários personalizados. Os usuários podem selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem.
