@@ -35,7 +35,7 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 # Requisitos Funcionais 
 
 - [ ]  RF1 - Recursos de Pesquisa de Destinos:
-O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, Grandes Pemios, atrações específicas e etc
+O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, grandes prêmios, atrações específicas, entre outros.
 
 - [ ]  RF2 - Reserva de Voos e Acomodações:
 O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
@@ -44,7 +44,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 O sistema fornece ferramentas para criar itinerários personalizados. Os usuários podem selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem.
 
 - [ ]  RF4 - Controle de Carteira:
-O sistema fornece ferramentas para organizar a carteira do usuário. Os usuários podem selecionar ou adquirir seus ingressos, cadastrar carões de créditos e outras formas de pagamento online
+O sistema fornece ferramentas para organizar a carteira do usuário. Os usuários podem selecionar ou adquirir seus ingressos, cadastrar carões de créditos e outras formas de pagamento online.
 
 - [ ]  RF5 - Verificação de Requisitos de Visto:
 O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
@@ -56,7 +56,7 @@ O sistema permite que os usuários organizem visitas guiadas em seus destinos es
 O sistema disponibiliza informações detalhadas sobre atrações locais em destinos específicos. Os usuários têm acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
 
 - [ ]  RF8 - Tela de Cadastro de Usuário:
-O sistema fornece uma tela de cadastro que permite aos usuários registrar suas informações essenciais. Os campos obrigatórios incluem nome completo, data de nascimento, email, senha e nacionalidade.
+O sistema fornece uma tela de cadastro que permite aos usuários registrar suas informações essenciais. Os campos obrigatórios incluem nome completo, data de nascimento, e-mail, senha e nacionalidade.
 
 
 # Tecnologias Usadas
@@ -81,27 +81,34 @@ O sistema fornece uma tela de cadastro que permite aos usuários registrar suas 
 # Cenários
 
 - [ ]  RF1 - Recursos de Pesquisa de Destinos: 
+
 Cenário: Enzo Milano, o aficionado por Fórmula 1, acessa o aplicativo e utiliza a funcionalidade de pesquisa de destinos. Ele filtra os destinos para encontrar cidades que sediam Grandes Prêmios, como Mônaco. Enzo explora as opções disponíveis, visualizando as atrações turísticas de cada local, incluindo o Cassino de Monte Carlo. Ele ajusta o filtro por datas para coincidir com o Grande Prêmio, organizando um roteiro personalizado que compartilha com sua família, tornando a experiência mais completa e compartilhada.
 
 - [ ] RF2 - Reserva de Voos e Acomodações: 
+
 Cenário: Clara Tomazzi, a coordenadora de eventos, decide visitar destinos de corridas futuras. Ela utiliza a plataforma para reservar voos e acomodações para Mônaco e Monza. Clara visualiza opções de voos, seleciona datas e horários convenientes, e efetua reservas seguras. Ao explorar os pontos turísticos, como a Catedral de Monza, ela enriquece sua experiência profissional, identificando oportunidades de inovação para os próximos eventos.
 
 - [ ] RF3 - Planejamento de Itinerários: 
+
 Cenário: José, o entusiasta com orçamento limitado, utiliza o sistema para planejar suas férias coincidindo com o Grande Prêmio de Interlagos. Ele cria um itinerário personalizado, escolhendo atividades acessíveis, como explorar o Parque do Ibirapuera e a Avenida Paulista. José organiza seu cronograma de viagem de forma econômica, aproveitando ao máximo a cidade, graças às ferramentas de planejamento do aplicativo.
 
 - [ ] RF4 - Controle de Carteira: 
+
 Cenário: Enzo Milano, após organizar seu roteiro, utiliza o sistema para controlar sua carteira. Ele cadastra seus cartões de crédito, adquire ingressos para o Grande Prêmio e gerencia seus gastos durante a viagem. O aplicativo oferece uma maneira conveniente de organizar suas despesas, proporcionando a Enzo uma experiência financeira segura e eficiente.
 
 - [ ]  RF5 - Verificação de Requisitos de Visto: 
 Cenário: Clara Tomazzi, coordenadora de eventos, planeja sua visita a destinos internacionais para melhorar a experiência dos fãs. Utilizando o sistema, ela verifica os requisitos de visto com base em sua nacionalidade e destino. O aplicativo fornece informações detalhadas, permitindo que Clara se prepare adequadamente para suas viagens, garantindo uma transição suave entre os destinos.
 
 - [ ] RF6 - Organização de Visitas Guiadas:
+
 Cenário: Enzo Milano, ao explorar Mônaco, decide organizar uma visita guiada. Utilizando o aplicativo, ele reserva um guia local para mostrar os pontos turísticos, como o Cassino de Monte Carlo. O sistema permite que Enzo defina datas, horários e locais a serem visitados durante a excursão, proporcionando uma experiência turística personalizada.
 
 - [ ] RF7 - Informações sobre Atrações Locais:
+
 Cenário: José, ao planejar sua viagem para o Grande Prêmio de Interlagos, utiliza o sistema para obter informações detalhadas sobre atrações locais. Ele acessa descrições, horários de funcionamento, preços e avaliações do Parque do Ibirapuera e da Avenida Paulista. O aplicativo enriquece a experiência de José, fornecendo insights valiosos sobre as principais atrações em seu destino.
 
 - [ ] RF8 - Tela de Cadastro de Usuário:
+
 Cenário: Maria, uma nova usuária entusiasmada, decide se cadastrar no aplicativo. Ela fornece seu nome completo, data de nascimento, email, senha e nacionalidade durante o processo de cadastro. Com as informações registradas, Maria agora tem acesso a recursos exclusivos, como roteiros personalizados, e pode aproveitar ao máximo sua experiência na Fórmula 1 com a ajuda do aplicativo.
 
 # Protótipo lo-fi
