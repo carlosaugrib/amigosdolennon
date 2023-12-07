@@ -70,7 +70,7 @@ O sistema permite aos usuários a reserva de voos e acomodações diretamente po
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/31a3b889-61d2-4ad5-8a34-fe629bc23b56" width="200"/>
 
-- [ ]  [RF5 - Verificação de Requisitos de Visto:](#rf5---verificação-de-requisitos-de-visto) 
+- [ ]  [RF5 - Verificação de Requisitos de Visto:](#rf5-verificação-de-requisitos-de-visto) 
 - O sistema disponibiliza informações sobre os requisitos de visto para destinos internacionais. Os usuários podem verificar os requisitos de visto necessários com base em sua nacionalidade e destino.
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/b5906507-6aa8-4b99-94da-1f8c8582e9f9" width="200"/>
