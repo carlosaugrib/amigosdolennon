@@ -37,10 +37,13 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 - [ ]  RF1 - Recursos de Pesquisa de Destinos:
 - O sistema oferece funcionalidades simplificada de pesquisa de destinos, permitindo aos usuários pesquisar e explorar uma variedade de destinos turísticos. Isso inclui a capacidade de filtrar destinos com base em vários critérios, como país, data, grandes prêmios, atrações específicas, entre outros.
 
+![Tela inicial ON EXP-1](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/f5abb3a3-661e-4c80-bfe2-b5a2676abb76)
 
 
 - [ ]  RF2 - Reserva de Voos e Acomodações:
 O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras.
+
+
 
 - [ ]  RF3 - Planejamento de Itinerários:
 - O sistema fornece ferramentas para criar itinerários personalizados. Os usuários podem selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem.
