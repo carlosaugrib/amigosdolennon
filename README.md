@@ -159,11 +159,11 @@ RF5 - Verificação de Requisitos de Visto:
 
 # Protótipo lo-fi
 
-Acesse [aqui](https://www.figma.com/file/o5D1MGBptgXuamqaGGi5We/F1-lo-fi?type=design&node-id=0%3A1&mode=design&t=BCsXMGJXBegJeAhc-1) o protótipo lo-fi no site Figma.
+Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERIENCE?type=design&node-id=265%3A952&mode=design&t=vqZ0x4JH6qrELmng-1) o protótipo lo-fi no site Figma.
 
 
 # Protótipo hi-fi
-Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERIENCE?type=design&node-id=0%3A1&mode=design&t=ensKI8hce0xnn6NH-1) o protótipo hi-fi no site Figma.
+Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERIENCE?type=design&node-id=0%3A1&mode=design&t=vqZ0x4JH6qrELmng-1) o protótipo hi-fi no site Figma.
 
 # Aplicação Web 
 
