@@ -64,8 +64,6 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/3920e2d0-d9a3-43a1-8c33-c81f5220c1b6" width="200"/>
 
-<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/0800575e-2caa-4894-9ed9-d98a4c8073e1" width="200"/>
-
 
 
 - [ ]  RF4 - Controle de Carteira:
@@ -84,8 +82,6 @@ Prepare-se para uma experiência única que combina o emocionante mundo da veloc
 
 - [ ]  RF6 - Organização de Visitas Guiadas:
 - O sistema permite que os usuários organizem visitas guiadas em seus destinos escolhidos. Isso inclui a possibilidade de reservar guias turísticos locais, definir datas e horários, bem como selecionar os locais e atrações a serem visitados durante a excursão.
-
-<img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/83eb9191-4c94-480b-bcc3-c0c009b6f33a" width="200"/>
 
 <img src= "https://github.com/carlosaugrib/amigosdolennon/assets/132007234/2e53b3c9-07b5-4c08-85fd-49cc90ad4899" width="200"/>
 
@@ -204,6 +200,8 @@ Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERI
 
 # Slides com Link do Vídeo de Apresentação
 [Apresentação F1 TRAVEL EXPERIENCE.pdf](https://github.com/carlosaugrib/amigosdolennon/files/13621098/Apresentacao.F1.TRAVEL.EXPERIENCE.pdf)
+
+https://www.youtube.com/watch?v=F5GxH8A4zEo&t=11s
 
 
 # Licença
