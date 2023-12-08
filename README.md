@@ -165,9 +165,6 @@ Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERI
 # Protótipo hi-fi
 Acesse [aqui](https://www.figma.com/file/yWuZhSOwnW3CN0OSXLmC5J/F1-TRAVEL-EXPERIENCE?type=design&node-id=0%3A1&mode=design&t=vqZ0x4JH6qrELmng-1) o protótipo hi-fi no site Figma.
 
-# Aplicação Web 
-
-Ponto Extra A3
 
 # Avaliação
 
@@ -201,9 +198,13 @@ Ponto Extra A3
 
 
 10. Ajuda e Documentação: Criamos tutoriais interativos ou guias passo a passo para novos usuários. Em complemento, mantemos uma sessão com a documentação acessível a partir do menu principal, organizada por tarefas específicas, para facilitar a busca.
+    
+[RELATORIO DE AVALIAÇÃO A3 (1).pdf](https://github.com/carlosaugrib/amigosdolennon/files/13621092/RELATORIO.DE.AVALIACAO.A3.1.pdf)
 
 
-# Link Vídeo Apresentação
+# Slides com Link do Vídeo de Apresentação
+[Apresentação F1 TRAVEL EXPERIENCE.pdf](https://github.com/carlosaugrib/amigosdolennon/files/13621098/Apresentacao.F1.TRAVEL.EXPERIENCE.pdf)
+
 
 # Licença
 
@@ -211,4 +212,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE](
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecimento especial aos professores!
