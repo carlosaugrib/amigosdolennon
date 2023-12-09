@@ -1,5 +1,5 @@
 # Grupo: Amigos do Lennon
-Apresentação A3 - Usabilidade, Desenvolvimento Web, Mobile e Jogos
+Apresentação A3 - Usabilidade, Desenvolvimento Web, Mobile e Jogos.
 
 # App: F1 Travel Experience
 ![Capa do Projeto](https://github.com/carlosaugrib/amigosdolennon/assets/132007234/5104720d-0ddc-4ed1-bb60-b22eace7808a)
